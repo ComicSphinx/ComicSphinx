@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ComicSphinx
-- 👀 I’m interested in software testing (manual and auto), also I am insterested in software and game development.
+- 👀 I’m interested in software testing (manual and auto), also I am insterested in software development.
 - 🌱 I’m currently working as software testing trainee
 - 📫 I'm use next languages: C, Python, SQL
 
