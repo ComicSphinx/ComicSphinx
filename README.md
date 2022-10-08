@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ComicSphinx
 - 👀 I’m interested in QA, also insterested in software development (authomatization of routine processes, web apps, desktop apps).
-- 🌱 I’m currently working as software testing engineer (manual and automatization testing and studying security testing)
+- 🌱 I’m currently working as software testing engineer. My role - release manager with the little DevOps skills.
 - 📫 I'm use next languages: C, Python
 
 <!---
