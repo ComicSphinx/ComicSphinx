@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ComicSphinx
-- 👀 I’m interested in QA, also insterested in software development (authomatization of routine processes, web apps, desktop apps).
-- 🌱 I’m currently working as software testing engineer. My role - release manager with the little DevOps skills.
-- 📫 I'm use next languages: C, Python
+- 👀 I’m interested in software development (authomatization of routine processes, apps, scientific apps).
+- 🌱 I’m currently working as software auto testing engineer and release manager.
+- 📫 I'm use next languages: C, Python, Java
 
 <!---
 ComicSphinx/ComicSphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
