@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ComicSphinx
 - 👀 I’m interested in software development (authomatization of routine processes, apps, scientific apps).
-- 🌱 I’m currently working as software auto testing engineer and release manager.
+- 🌱 I’m currently working as QA-automation.
 - 📫 I'm use next languages: C, Python, Java
 
 <!---
